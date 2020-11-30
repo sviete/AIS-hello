@@ -15,20 +15,10 @@ mkdir -p  ~/AIS/custom_components
 
 ```
 cd ~/AIS/custom_components
-git clone https://github.com/araczkowski/ais_hello.git
+git clone https://github.com/sviete/AIS-hello.git
 ```
 
-3. Dodanie integracji do konfiguracji
-na końcu pliku ```~/AIS/configuration.yaml``` dodajemy taką konfigurację
-
-```
-# ~/AIS/configuration.yaml
-sensor:
-  platform: ais_hello
-
-```
-
-4. restart usługi ais
+3. restart usługi ais
 
 ```
 pm2 restart ais
