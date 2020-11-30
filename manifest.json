@@ -1,0 +1,9 @@
+{
+  "domain": "ais_hello",
+  "name": "Przykład integracji sensora licznik",
+  "documentation": "https://ai-speaker.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "config_flow": true
+}

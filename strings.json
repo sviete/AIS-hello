@@ -1,0 +1,18 @@
+{   "title": "AIS Hello",
+    "config": {
+        "step": {
+          "confirm": {
+              "title": "AIS Hello",
+              "description": "###### ![logo](https://ai-speaker.com/images/brands/ais_hello/icon.png)\n\nDo you want to set up new AIS hello integration?"
+            },
+            "login": {
+                "title": "AIS Hello - login",
+                "description": "To get data from xxx you need to login,  [Details in the documentation ](https://www.ai-speaker.com)\n\n Fill in the form below and click **SUBMIT** button.",
+                "data": {
+                    "username": "Username",
+                    "password": "Password"
+                }
+            }
+        }
+    }
+}

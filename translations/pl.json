@@ -1,0 +1,18 @@
+{   "title": "AIS Cześć",
+    "config": {
+        "step": {
+          "confirm": {
+              "title": "AIS Cześć",
+              "description": "###### ![logo](https://ai-speaker.com/images/brands/ais_hello/icon.png)\n\nCzy chcesz skonfigurować nową integrację AIS Cześć?"
+            },
+            "login": {
+                "title": "AIS Cześć - logowanie",
+                "description": "Aby otrzymać dane z serwisu xxx musisz się zalogować,  [szczegóły w dokumentacji](https://www.ai-speaker.com)\n\n Wypełnij poniższy formularz i kliknij przycisk **ZATWIERDZ**.",
+                "data": {
+                    "username": "Nazwa Użytkownika",
+                    "password": "Hasło"
+                }
+            }
+        }
+    }
+}
